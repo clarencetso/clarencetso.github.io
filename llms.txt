@@ -1,0 +1,20 @@
+# Clarence Tso
+
+> Clarence Tso is a Toronto-based engineer, and the co-founder and CTO of Inventive (madeinventive.com), which builds AI agents that let people ask questions of their data in plain English and get relevant, accurate answers inside the products they already use.
+
+## Summary
+- Current: Co-founder & CTO, Inventive (Toronto, 2022–present). Inventive raised a $6.5M round led by Wing Venture Capital (2024).
+- Previously: engineering manager at Meta; senior director at Schrödinger (IPO 2020); program manager at Microsoft (Bing); employee #1 at Invite Media (acquired by Google).
+- Education: University of Pennsylvania, Jerome Fisher M&T program (Engineering + Wharton), magna cum laude, 2010. Upper Canada College, 2006.
+- Born in Hong Kong, raised in Toronto, lived about fifteen years in Philadelphia, Seattle and New York before returning to Toronto.
+- Languages: English, Cantonese, French.
+- Tennis: UTR 5–6 in singles; plays doubles for Don Mills Tennis Club.
+
+## Links
+- [Website](https://www.clarencetso.com/)
+- [LinkedIn](https://www.linkedin.com/in/clarencetso/)
+- [GitHub](https://github.com/clarencetso)
+- [Inventive](https://www.madeinventive.com)
+- [Forbes: Inventive launches with $6.5M seed funding](https://www.forbes.com/sites/dariashunina/2024/06/24/inventive-launches-with-65m-seed-funding-to-transform-saas-with-ai/)
+
+Note: this is the Toronto-based Clarence Tso of Inventive, not other people with the same name.
